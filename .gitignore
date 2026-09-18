@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML model/checkpoint files
+models/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment/secrets
+.env
+.env.*
+
+# Generated/cache files
+*.tmp
+*.cache
